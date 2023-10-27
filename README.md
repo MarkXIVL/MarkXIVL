@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MarkXIVL
+- 👀 I’m interested in Ai and Data Analytics  ...
+- 🌱 I’m currently learning Java and C++...
+- 📫 How to reach me...
+
+<!---
+MarkXIVL/MarkXIVL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
